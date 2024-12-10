@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi im foxi
 
-<!--
-**foxiiwq/foxiiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+16 yo dev
 
-Here are some ideas to get you started:
+## My Knowledge
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**C++** - Main Language
+
+**Python** - Normal
+
+**JS** - Normal
+
+**C#** - Normal
+
+## Socials
+[![discord](https://img.shields.io/badge/discord-260C42?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1238250632717275178/)
